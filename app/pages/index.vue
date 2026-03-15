@@ -25,42 +25,6 @@
     </header>
 
     <div class="flex">
-      <!-- Sidebar -->
-      <aside class="w-64 bg-gray-900 min-h-screen border-r border-gray-800 hidden lg:block">
-        <div class="p-4">
-          <div class="mb-6">
-            <h3 class="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-3">Technologies</h3>
-            <ul class="space-y-2">
-              <li><a href="#" class="block py-2 px-3 hover:bg-gray-800 rounded transition-colors">Frontend</a></li>
-              <li><a href="#" class="block py-2 px-3 hover:bg-gray-800 rounded transition-colors">Backend</a></li>
-              <li><a href="#" class="block py-2 px-3 hover:bg-gray-800 rounded transition-colors">Database</a></li>
-              <li><a href="#" class="block py-2 px-3 hover:bg-gray-800 rounded transition-colors">DevOps</a></li>
-              <li><a href="#" class="block py-2 px-3 hover:bg-gray-800 rounded transition-colors">Cloud</a></li>
-              <li><a href="#" class="block py-2 px-3 hover:bg-gray-800 rounded transition-colors">Mobile</a></li>
-            </ul>
-          </div>
-          
-          <div class="mb-6">
-            <h3 class="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-3">Experience</h3>
-            <ul class="space-y-2">
-              <li><a href="#" class="block py-2 px-3 hover:bg-gray-800 rounded transition-colors">Web Development</a></li>
-              <li><a href="#" class="block py-2 px-3 hover:bg-gray-800 rounded transition-colors">System Admin</a></li>
-              <li><a href="#" class="block py-2 px-3 hover:bg-gray-800 rounded transition-colors">Cloud Architecture</a></li>
-              <li><a href="#" class="block py-2 px-3 hover:bg-gray-800 rounded transition-colors">UI/UX Design</a></li>
-            </ul>
-          </div>
-
-          <div>
-            <h3 class="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-3">Contact</h3>
-            <ul class="space-y-2">
-              <li><a href="#" class="block py-2 px-3 hover:bg-gray-800 rounded transition-colors">Email</a></li>
-              <li><a href="#" class="block py-2 px-3 hover:bg-gray-800 rounded transition-colors">LinkedIn</a></li>
-              <li><a href="#" class="block py-2 px-3 hover:bg-gray-800 rounded transition-colors">GitHub</a></li>
-              <li><a href="#" class="block py-2 px-3 hover:bg-gray-800 rounded transition-colors">Resume</a></li>
-            </ul>
-          </div>
-        </div>
-      </aside>
 
       <!-- Main Content -->
       <main class="flex-1">
