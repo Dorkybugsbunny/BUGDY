@@ -1,7 +1,7 @@
 <template>
   <div>
     <NuxtRouteAnnouncer />
-    <component is="Header" />
+    <Header />
     <NuxtPage />
   </div>
 </template>
